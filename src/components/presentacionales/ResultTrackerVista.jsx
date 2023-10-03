@@ -81,7 +81,7 @@ const ResultTrackerVista = ({ data }) => {
                         center={[data.data.latitude, data.data.longitude]}
                         zoom={12}
                         scrollWheelZoom={false}
-                        style={{ height: "300px", width: "50%", marginTop: "20px" }}
+                        style={{ height: "20rem", width: "50%", marginTop: "20px" }}
                     >
                         <TileLayer
                             attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
