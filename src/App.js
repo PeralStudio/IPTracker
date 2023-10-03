@@ -1,9 +1,7 @@
-import Iptracker from './components/IpTracker';
+import Iptracker from "./components/IpTracker";
 
 function App() {
-  return (
-    <Iptracker />
-  );
+    return <Iptracker />;
 }
 
 export default App;
